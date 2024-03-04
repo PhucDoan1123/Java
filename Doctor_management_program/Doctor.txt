@@ -1,0 +1,29 @@
+7
+Doc 5
+Dung
+Xet nghiem mau
+6
+Doc 6
+Nhan
+Rang Ham Mat
+5
+Doc 9
+Nhan
+Y khoa
+4
+Doc 4
+Tung
+Tay chan mieng
+2
+doc 1
+Thanh Hien
+Rang Ham mat
+2
+Doc 10
+Tung
+Rang ham mat
+9
+Doc 7
+Phuc
+Tay Chan Mieng
+5

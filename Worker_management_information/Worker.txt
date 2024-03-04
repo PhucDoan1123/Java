@@ -1,0 +1,41 @@
+8
+W 1
+Nghia
+20
+17100.0
+Nhan Vien
+W 2
+Nghia
+20
+2000.0
+To Truong
+W 3
+Lien
+20
+3000.0
+Tro Li
+W 7
+Dang
+25
+5120.0
+Giam Doc
+W 8
+Hao
+22
+2200.0
+Nhan Vien
+W 4
+Nhan
+18
+2000.0
+Nhan Vien
+W 5
+Minh
+23
+6400.0
+Nhan Vien
+w 9
+Tu
+20
+2000.0
+Giam xat
